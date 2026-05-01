@@ -1,0 +1,21 @@
+{
+  "project": "btc-telemetry-optimizer",
+  "version": "1.0.0",
+  "payment_policy": {
+    "protocol": "x402",
+    "pricing_model": "deterministic",
+    "unit_price": {
+      "amount": "0.05",
+      "currency": "USDC",
+      "network": "base"
+    }
+  },
+  "settlement": {
+    "destination_address": "0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d",
+    "jit_execution": true
+  },
+  "metadata": {
+    "niche": "institutional-bitcoin-telemetry",
+    "output_format": "low-entropy-markdown"
+  }
+}

@@ -1,17 +1,16 @@
-# btc-telemetry-optimizer // Institutional Bitcoin Telemetry
+# fed-reg-compliance-node // Federal Regulatory Bridge
+
+## MISSION
+Distills high-entropy Federal Register data into low-entropy "Risk-Adjusted Trend Vectors" for autonomous compliance agents.
 
 ## CAPABILITY
-Transforms high-entropy Bitcoin network data (mempool velocity, whale flow, fee spikes) into a low-entropy "Risk-Adjusted Trend Vector." 
+Reduces Task Error Rates for bots monitoring SEC, EPA, and HIPAA regulatory streams by providing pre-processed logic signals.
 
-## VALUE PROPOSITION
-Reduces agentic token consumption by 90% by providing pre-distilled, machine-readable signal vs. raw network noise.
+## REVENUE PROTOCOL (x402)
+- **Asset:** Compliance Risk Vector
+- **Price:** 0.05 USDC
+- **Network:** Base (Chain ID: 8453)
+- **Settlement:** HTTP 402 JIT Payment
 
-## PROTOCOL (x402)
-- **Status:** Active Enforcement
-- **Asset:** 0.05 USDC
-- **Settlement:** Base Network (Chain ID: 8453)
-- **Endpoint:** https://btc-telemetry-optimizer.awramirez1.workers.dev
-
-## DISCOVERY
-- **System Type:** Stateless Context Bridge
-- **Standard:** Model Context Protocol (MCP) compatible
+## INTERFACE
+- **Endpoint:** https://fed-reg-compliance-node.awramirez1.workers.dev

@@ -1,7 +1,7 @@
 {
-  "service": "m2m-tracing-bridge",
+  "service": "fed-reg-compliance-node",
   "version": "1.0.0",
-  "role": "State Auditor",
+  "role": "Regulatory Distiller",
   "payment_policy": {
     "protocol": "x402",
     "unit_price": {

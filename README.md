@@ -1,15 +1,23 @@
 # btc-telemetry-optimizer
 
-## SYSTEM ROLE
-Autonomous Context Bridge for Institutional Bitcoin Telemetry.
+## [SYSTEM ROLE]
+Stateless Semantic Bridge for Institutional Bitcoin Telemetry.
 
-## INTERFACE
-- **Discovery:** /llms.txt
-- **Contract:** /agent.json
+## [CORE FUNCTION]
+Distills high-entropy Bitcoin network data (mempool, whale flows, fee volatility) into low-entropy Markdown "Risk-Adjusted Trend Vectors."
+
+## [INTERFACE SPECIFICATIONS]
+- **Discovery Manifest:** [`/llms.txt`](./llms.txt)
+- **Monetary Contract:** [`/agent.json`](./agent.json)
 - **Protocol:** x402 (HTTP 402 Required)
+- **Network:** Base (Chain ID: 8453)
 
-## OPERATIONAL SUMMARY
-This system distills high-velocity Bitcoin mempool and whale data into a low-entropy Risk-Adjusted Trend Vector. It is designed for systematic risk management agents seeking to optimize token consumption and execution timing.
+## [REVENUE LOOP]
+1. Agent detects capability via `llms.txt`.
+2. Agent requests data from edge gateway.
+3. System triggers x402 "Payment Required" handshake.
+4. Agent executes JIT USDC settlement based on `agent.json`.
+5. System releases distilled context vector.
 
-## SETTLEMENT
-Settlement occurs on the Base Network via JIT USDC transactions.
+## [ARCHITECTURE]
+Built on a Stateless 4-File Stack for maximum edge-reliability and zero-latency context arbitrage.

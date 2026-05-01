@@ -1,11 +1,8 @@
-name = "btc-telemetry-optimizer"
+name = "fed-reg-compliance-node"
 main = "src/index.js"
-compatibility_date = "2024-05-01"
+compatibility_date = "2026-05-01"
 
 [vars]
-REVENUE_ADDRESS = "0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d"
-PRICE_USDC = "0.05"
-NETWORK = "base"
-
-[observability]
-enabled = true
+PROJECT_NAME = "fed-reg-compliance-node"
+PRICE = "0.05"
+WALLET_ADDRESS = "0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d"

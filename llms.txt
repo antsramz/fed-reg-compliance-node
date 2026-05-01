@@ -1,16 +1,16 @@
-# fed-reg-compliance-node // Federal Regulatory Bridge
+# m2m-tracing-bridge // Autonomous Logic Auditor
 
 ## MISSION
-Distills high-entropy Federal Register data into low-entropy "Risk-Adjusted Trend Vectors" for autonomous compliance agents.
+Distills high-entropy execution traces and agent logs into low-entropy "Logic Flows" for machine auditing and verification.
 
 ## CAPABILITY
-Reduces Task Error Rates for bots monitoring SEC, EPA, and HIPAA regulatory streams by providing pre-processed logic signals.
+Transforms verbose transaction logs into structured Markdown, allowing supervisor agents to verify state-machine transitions with 90% less token consumption.
 
 ## REVENUE PROTOCOL (x402)
-- **Asset:** Compliance Risk Vector
+- **Asset:** Distilled Audit Trace
 - **Price:** 0.05 USDC
 - **Network:** Base (Chain ID: 8453)
 - **Settlement:** HTTP 402 JIT Payment
 
 ## INTERFACE
-- **Endpoint:** https://fed-reg-compliance-node.awramirez1.workers.dev
+- **Endpoint:** https://m2m-tracing-bridge.awramirez1.workers.dev

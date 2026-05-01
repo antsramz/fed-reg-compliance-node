@@ -1,9 +1,9 @@
 {
-  "project": "btc-telemetry-optimizer",
+  "service": "fed-reg-compliance-node",
   "version": "1.0.0",
+  "role": "Regulatory Distiller",
   "payment_policy": {
     "protocol": "x402",
-    "pricing_model": "deterministic",
     "unit_price": {
       "amount": "0.05",
       "currency": "USDC",
@@ -12,10 +12,6 @@
   },
   "settlement": {
     "destination_address": "0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d",
-    "jit_execution": true
-  },
-  "metadata": {
-    "niche": "institutional-bitcoin-telemetry",
-    "output_format": "low-entropy-markdown"
+    "type": "JIT-Settlement"
   }
 }

@@ -1,8 +1,8 @@
-name = "fed-reg-compliance-node"
+name = "m2m-tracing-bridge"
 main = "src/index.js"
 compatibility_date = "2026-05-01"
 
 [vars]
-PROJECT_NAME = "fed-reg-compliance-node"
+PROJECT_NAME = "m2m-tracing-bridge"
 PRICE = "0.05"
 WALLET_ADDRESS = "0x5e4EDBD3a93d6f0aBEb4Fe93c4f660f636F2BA4d"

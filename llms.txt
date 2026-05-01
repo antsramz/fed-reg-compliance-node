@@ -1,0 +1,17 @@
+# btc-telemetry-optimizer // Institutional Bitcoin Telemetry
+
+## CAPABILITY
+Transforms high-entropy Bitcoin network data (mempool velocity, whale flow, fee spikes) into a low-entropy "Risk-Adjusted Trend Vector." 
+
+## VALUE PROPOSITION
+Reduces agentic token consumption by 90% by providing pre-distilled, machine-readable signal vs. raw network noise.
+
+## PROTOCOL (x402)
+- **Status:** Active Enforcement
+- **Asset:** 0.05 USDC
+- **Settlement:** Base Network (Chain ID: 8453)
+- **Endpoint:** https://btc-telemetry-optimizer.awramirez1.workers.dev
+
+## DISCOVERY
+- **System Type:** Stateless Context Bridge
+- **Standard:** Model Context Protocol (MCP) compatible
